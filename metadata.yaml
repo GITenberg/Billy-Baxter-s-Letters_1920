@@ -1,0 +1,24 @@
+_repo: Billy-Baxter-s-Letters_1920
+creator:
+  author:
+    agent_name: Kountz, William J.
+    deathdate: 1899
+    gutenberg_agent_id: '751'
+    url: http://www.gutenberg.org/2009/agents/751
+description: ''
+gutenberg_issued: '1999-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1920'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Epistolary fiction'
+- !lcsh 'Humorous stories, American'
+tableOfContents: Out hunting -- One night -- In society -- In love -- In New York
+  -- Johnny Black's girl.
+title: Billy Baxter's Letters
+url: http://www.gutenberg.org/ebooks/1920
